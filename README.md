@@ -5,9 +5,9 @@ Bu depo, R programlama dili kullanarak temel istatistiksel analizlerin nasıl ya
 Bu depodaki kodlar, ortalama, medyan ve standart sapma gibi temel istatistiksel ölçülerin nasıl hesaplanacağını göstermektedir. Ayrıca histogram ve kutu grafiği kullanarak veri görselleştirme örneklerini de içermektedir.
 
 ## Dosyalar
-- `ortalama_standartsapma.txt`: Ortalama, medyan ve standart sapma hesaplama kodları.
+- `standartsapma-ortalama-medyan.R`: Ortalama, medyan ve standart sapma hesaplama kodları.
 - `R Dili ile Temel İstatistikler ve Problemler Veri Analizi ve Çözümleme_.pdf`: R ile temel istatistiksel analizler ve problem çözme üzerine bir slayt.
-- `21360859052_AdileAkkılıç_seminer.docx` :  R ile temel istatistiksel analizler ve problem çözme üzerine detaylı bir rapor.
+- `seminer_rapor.pdf` :  R ile temel istatistiksel analizler ve problem çözme üzerine detaylı bir rapor.
 
 ## Başlarken
 1. Depoyu klonlayın:
